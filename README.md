@@ -3,10 +3,9 @@
   <br/>
   <br/>
   <a href="https://github.com/Merc-18"><img src="https://img.shields.io/badge/GitHub-Merc--18-0B1528?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Merc-18&label=PROFILE%20VIEWS&color=318CE7&style=for-the-badge" alt="Profile views"/>
   <br/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=5DBBFF&center=true&vCenter=true&repeat=true&width=750&lines=Applied+AI+%E2%80%A2+Software+Engineering;Document+Intelligence+%E2%80%A2+OCR+%E2%80%A2+Computer+Vision;Automation+%E2%80%A2+APIs+%E2%80%A2+Data+Workflows" alt="Areas of interest"/>
+  <p><strong>AI Engineering • Document Intelligence • Software Development</strong></p>
 </div>
 
 ## 👋 Hola, soy Merc-18
@@ -24,17 +23,15 @@ Me interesa diseñar y desarrollar **soluciones prácticas de software e intelig
 
 <div align="center">
 
-**Lenguajes, plataformas y herramientas**
+**Iconos animados — como en supuna97**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,postgres,mysql,docker,linux,git,github,vscode&perline=6" alt="Python, TypeScript, JavaScript, React, FastAPI, PostgreSQL, MySQL, Docker, Linux, Git, GitHub and VS Code"/>
+<table><tr><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/python-icon.svg" width="64" height="64" alt="Python"/><br/><sub>Python</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/ts-icon.svg" width="64" height="64" alt="TypeScript"/><br/><sub>TypeScript</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/js-icon.svg" width="64" height="64" alt="JavaScript"/><br/><sub>JavaScript</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/react-icon.svg" width="64" height="64" alt="React"/><br/><sub>React</sub></td></tr><tr><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/docker-icon.svg" width="64" height="64" alt="Docker"/><br/><sub>Docker</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/github-icon.svg" width="64" height="64" alt="GitHub"/><br/><sub>GitHub</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/mysql-icon.svg" width="64" height="64" alt="MySQL"/><br/><sub>MySQL</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/restapi-icon.svg" width="64" height="64" alt="REST API"/><br/><sub>REST API</sub></td></tr></table>
 
-**Áreas de trabajo**
+**Otras tecnologías**
 
-<img src="https://img.shields.io/badge/Applied%20AI-0C2542?style=flat-square&logo=githubcopilot&logoColor=5DBBFF" alt="Applied AI"/>
-<img src="https://img.shields.io/badge/OCR%20%26%20Documents-0C2542?style=flat-square&logo=googledocs&logoColor=5DBBFF" alt="OCR and documents"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0C2542?style=flat-square&logo=opencv&logoColor=5DBBFF" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Automation-0C2542?style=flat-square&logo=githubactions&logoColor=5DBBFF" alt="Automation"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0C2542?style=flat-square&logo=fastapi&logoColor=5DBBFF" alt="REST APIs"/>
+`FastAPI` · `PostgreSQL` · `Linux` · `Git` · `OpenCV` · `OCR` · `Ollama`
+
+<sub>Animaciones SVG de TechStack Generator (MIT), por shellboy. <a href="https://github.com/qkrdmstlr3/techstack-generator">Código y licencia</a>.</sub>
 
 </div>
 
@@ -71,22 +68,15 @@ Me interesa diseñar y desarrollar **soluciones prácticas de software e intelig
   </tr>
 </table>
 
-## 📊 GitHub activity
+## 📊 Actividad de GitHub
+
+El gráfico de contribuciones oficial de GitHub se muestra debajo del README y se actualiza automáticamente. Eliminé las tarjetas externas que podrían aparecer como imágenes rotas.
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merc-18&theme=github_dark" width="96%" alt="GitHub contribution overview"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Merc-18&show_icons=true&hide_border=true&bg_color=0B1528&title_color=61B8FF&text_color=BDD0E6&icon_color=53B8FF" width="49%" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merc-18&layout=compact&hide_border=true&bg_color=0B1528&title_color=61B8FF&text_color=BDD0E6" width="49%" alt="Most common public repository languages"/>
-</div>
 
-<details>
-<summary><b>📈 Ver gráfico de actividad</b></summary>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merc-18&bg_color=0b1528&color=61b8ff&line=3b96f0&point=ffffff&area=true&hide_border=true" width="98%" alt="Public activity over time"/>
+<a href="https://github.com/Merc-18?tab=overview">📈 Ver contribuciones</a> · <a href="https://github.com/Merc-18?tab=repositories">📦 Explorar repositorios</a>
+
 </div>
-</details>
 
 ## 🤝 Conecta conmigo
 
