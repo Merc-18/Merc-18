@@ -23,7 +23,6 @@ Me interesa diseñar y desarrollar **soluciones prácticas de software e intelig
 
 <div align="center">
 
-**Iconos animados — como en supuna97**
 
 <table><tr><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/python-icon.svg" width="64" height="64" alt="Python"/><br/><sub>Python</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/ts-icon.svg" width="64" height="64" alt="TypeScript"/><br/><sub>TypeScript</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/js-icon.svg" width="64" height="64" alt="JavaScript"/><br/><sub>JavaScript</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/react-icon.svg" width="64" height="64" alt="React"/><br/><sub>React</sub></td></tr><tr><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/docker-icon.svg" width="64" height="64" alt="Docker"/><br/><sub>Docker</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/github-icon.svg" width="64" height="64" alt="GitHub"/><br/><sub>GitHub</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/mysql-icon.svg" width="64" height="64" alt="MySQL"/><br/><sub>MySQL</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/restapi-icon.svg" width="64" height="64" alt="REST API"/><br/><sub>REST API</sub></td></tr></table>
 
@@ -31,7 +30,6 @@ Me interesa diseñar y desarrollar **soluciones prácticas de software e intelig
 
 `FastAPI` · `PostgreSQL` · `Linux` · `Git` · `OpenCV` · `OCR` · `Ollama`
 
-<sub>Animaciones SVG de TechStack Generator (MIT), por shellboy. <a href="https://github.com/qkrdmstlr3/techstack-generator">Código y licencia</a>.</sub>
 
 </div>
 
@@ -87,5 +85,4 @@ El gráfico de contribuciones oficial de GitHub se muestra debajo del README y s
 
 <div align="center">
 <br/>
-<sub>Building practical intelligence · MERC-18</sub>
 </div>
