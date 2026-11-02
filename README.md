@@ -1,88 +1,51 @@
 <div align="center">
   <img src="./assets/hero.svg" width="100%" alt="MERC-18 — Software, AI and Automation"/>
-  <br/>
-  <br/>
-  <a href="https://github.com/Merc-18"><img src="https://img.shields.io/badge/GitHub-Merc--18-0B1528?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile"/></a>
-  <br/>
-  <br/>
-  <p><strong>AI Engineering • Document Intelligence • Software Development</strong></p>
+  <h3>Ingeniería de software · Inteligencia artificial aplicada · Automatización</h3>
+  <p>Diseño soluciones, desarrollo software y dirijo su implementación técnica, combinando programación, agentes de IA y validación mediante pruebas.</p>
 </div>
 
-## 👋 Hola, soy Merc-18
+## 👋 Sobre mí
 
-Me interesa diseñar y desarrollar **soluciones prácticas de software e inteligencia artificial**, especialmente en automatización de procesos, extracción de información de documentos y sistemas que resuelvan problemas reales.
+Me enfoco en transformar problemas operativos en **herramientas funcionales, verificables y mantenibles**. Trabajo desde el diseño de la arquitectura y los contratos hasta la implementación, integración y revisión de resultados.
 
-> **Mi enfoque:** construir soluciones útiles, medibles y mantenibles; conectar modelos de IA con productos y flujos de trabajo reales.
+- **Software engineering:** Python, APIs, integración de sistemas, pruebas y automatización.
+- **AI engineering:** procesamiento documental, extracción estructurada, modelos locales y visión.
+- **Technical leadership:** descomposición de problemas, coordinación de agentes de desarrollo, revisión de código y control de calidad.
+- **Document intelligence:** PDF, Excel, OCR y flujos de validación de información.
 
-- 🧠 **IA aplicada:** modelos locales, procesamiento de documentos y análisis de imágenes.
-- 📄 **Document intelligence:** OCR, extracción de datos y validación de resultados.
-- ⚙️ **Ingeniería de software:** APIs, integración, automatización y pruebas.
-- 🔍 **Aprendizaje continuo:** exploración de herramientas y tecnologías emergentes.
+## 🛠 Tecnologías
 
-## 🛠️ Tech stack
+**Lenguajes:** Python · TypeScript · JavaScript · SQL
 
-<div align="center">
+**Backend y datos:** FastAPI · REST APIs · PostgreSQL · MySQL · Supabase
 
+**Frontend y herramientas:** React · Git · GitHub Actions · Docker · Linux
 
-<table><tr><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/python-icon.svg" width="64" height="64" alt="Python"/><br/><sub>Python</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/ts-icon.svg" width="64" height="64" alt="TypeScript"/><br/><sub>TypeScript</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/js-icon.svg" width="64" height="64" alt="JavaScript"/><br/><sub>JavaScript</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/react-icon.svg" width="64" height="64" alt="React"/><br/><sub>React</sub></td></tr><tr><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/docker-icon.svg" width="64" height="64" alt="Docker"/><br/><sub>Docker</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/github-icon.svg" width="64" height="64" alt="GitHub"/><br/><sub>GitHub</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/mysql-icon.svg" width="64" height="64" alt="MySQL"/><br/><sub>MySQL</sub></td><td align="center"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/restapi-icon.svg" width="64" height="64" alt="REST API"/><br/><sub>REST API</sub></td></tr></table>
+**IA y automatización:** Modelos de lenguaje · Ollama · OpenCV · OCR · Agentes de programación
 
-**Otras tecnologías**
+## 🚀 Proyectos públicos destacados
 
-`FastAPI` · `PostgreSQL` · `Linux` · `Git` · `OpenCV` · `OCR` · `Ollama`
+| Proyecto | Enfoque | Tecnologías |
+| --- | --- | --- |
+| [Ticketera Controlling](https://github.com/Merc-18/ticketera-controlling) | Gestión de tickets, tableros y seguimiento operativo | React, TypeScript, Supabase |
+| [extractor-pdf-ia](https://github.com/Merc-18/extractor-pdf-ia) | Extracción de información de documentos PDF con IA | Python, Document AI |
+| [AI-ML-Class](https://github.com/Merc-18/AI-ML-Class) | Aprendizaje y experimentación con IA y aprendizaje automático | AI, ML |
+| [orca-lab](https://github.com/Merc-18/orca-lab) | Laboratorio de desarrollo y experimentación técnica | Desarrollo, prototipos |
 
+## 🔬 Áreas de trabajo
 
-</div>
+**Sistemas inteligentes para documentos.** Desarrollo de flujos capaces de interpretar documentos, estructurar resultados, comprobar inconsistencias y exponer capacidades mediante APIs.
 
-## 🚀 Proyectos destacados
+**Automatización de operaciones.** Herramientas que reducen trabajo repetitivo y permiten revisar los resultados con evidencia y trazabilidad.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Merc-18/ticketera-controlling">🎫 Ticketera Controlling</a></h3>
-      <p>Sistema de gestión de tickets y proyectos, con tableros Kanban, Gantt, seguimiento de SLA y analítica.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Supabase</code></p>
-      <a href="https://github.com/Merc-18/ticketera-controlling">Explorar repositorio →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Merc-18/extractor-pdf-ia">📄 extractor-pdf-ia</a></h3>
-      <p>Repositorio público relacionado con la extracción de información de documentos PDF mediante IA.</p>
-      <p><code>Document AI</code> <code>PDF</code></p>
-      <a href="https://github.com/Merc-18/extractor-pdf-ia">Explorar repositorio →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Merc-18/AI-ML-Class">🧠 AI-ML-Class</a></h3>
-      <p>Repositorio dedicado al aprendizaje y exploración de inteligencia artificial y machine learning.</p>
-      <p><code>AI</code> <code>Machine Learning</code></p>
-      <a href="https://github.com/Merc-18/AI-ML-Class">Explorar repositorio →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Merc-18/orca-lab">🧪 orca-lab</a></h3>
-      <p>Espacio de experimentación técnica y desarrollo.</p>
-      <p><code>Experiments</code> <code>Development</code></p>
-      <a href="https://github.com/Merc-18/orca-lab">Explorar repositorio →</a>
-    </td>
-  </tr>
-</table>
+**Desarrollo asistido por IA.** Uso agentes de programación como colaboradores de implementación; mantengo el diseño técnico, las decisiones de integración y la validación del software.
 
-## 📊 Actividad de GitHub
+## 📌 Actividad y repositorios
 
-El gráfico de contribuciones oficial de GitHub se muestra debajo del README y se actualiza automáticamente. Eliminé las tarjetas externas que podrían aparecer como imágenes rotas.
+Mi trabajo incluye proyectos públicos y desarrollos privados en preparación. **Los repositorios privados no se presentan como publicaciones ni se comparten aquí antes de su autorización.**
 
-<div align="center">
+[Explorar mis repositorios públicos](https://github.com/Merc-18?tab=repositories) · [Ver mi actividad en GitHub](https://github.com/Merc-18?tab=overview)
 
-<a href="https://github.com/Merc-18?tab=overview">📈 Ver contribuciones</a> · <a href="https://github.com/Merc-18?tab=repositories">📦 Explorar repositorios</a>
+---
 
-</div>
-
-## 🤝 Conecta conmigo
-
-<div align="center">
-  <a href="https://github.com/Merc-18?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20projects-0D2848?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/></a>
-  <a href="https://github.com/Merc-18"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-1466A3?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
-</div>
-
-<div align="center">
-<br/>
-</div>
+<div align="center"><sub>Software útil. Arquitectura clara. Pruebas y resultados verificables.</sub></div>
