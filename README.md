@@ -27,10 +27,17 @@ Me enfoco en transformar problemas operativos en **herramientas funcionales, ver
 
 | Proyecto | Enfoque | Tecnologías |
 | --- | --- | --- |
+| **[Portafolio de proyectos Python](https://github.com/Merc-18/projectos-py-portfolio-clean)** | Catálogo de proyectos profesionales y reconstrucciones históricas con código Python, automatización, Excel, PDF y validaciones | Python, GitHub Actions, HTML |
 | [Ticketera Controlling](https://github.com/Merc-18/ticketera-controlling) | Gestión de tickets, tableros y seguimiento operativo | React, TypeScript, Supabase |
 | [extractor-pdf-ia](https://github.com/Merc-18/extractor-pdf-ia) | Extracción de información de documentos PDF con IA | Python, Document AI |
 | [AI-ML-Class](https://github.com/Merc-18/AI-ML-Class) | Aprendizaje y experimentación con IA y aprendizaje automático | AI, ML |
 | [orca-lab](https://github.com/Merc-18/orca-lab) | Laboratorio de desarrollo y experimentación técnica | Desarrollo, prototipos |
+
+### 📂 Explorar mi portafolio Python
+
+[**Abrir el catálogo de proyectos**](https://github.com/Merc-18/projectos-py-portfolio-clean/tree/main/catalogo) · [**Ver los programas Python**](https://github.com/Merc-18/projectos-py-portfolio-clean/tree/main/proyectos) · [**Explorar reconstrucciones históricas**](https://github.com/Merc-18/projectos-py-portfolio-clean/tree/main/proyectos/historicos)
+
+El portafolio reúne **34 proyectos clasificados por ticket y 71 trabajos históricos inventariados**, de los cuales **69 cuentan con fichas visibles**. Incluye implementaciones adaptadas y demostraciones independientes; no todas reproducen íntegramente el software original.
 
 ## 🔬 Áreas de trabajo
 
@@ -42,7 +49,7 @@ Me enfoco en transformar problemas operativos en **herramientas funcionales, ver
 
 ## 📌 Actividad y repositorios
 
-Mi trabajo incluye proyectos públicos y desarrollos privados en preparación. **Los repositorios privados no se presentan como publicaciones ni se comparten aquí antes de su autorización.**
+Mi trabajo incluye proyectos públicos y desarrollos privados en preparación. El [portafolio Python](https://github.com/Merc-18/projectos-py-portfolio-clean) ya es público; los demás repositorios privados no se presentan como publicaciones ni se comparten aquí sin autorización.
 
 [Explorar mis repositorios públicos](https://github.com/Merc-18?tab=repositories) · [Ver mi actividad en GitHub](https://github.com/Merc-18?tab=overview)
 
